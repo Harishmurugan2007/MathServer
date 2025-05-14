@@ -122,13 +122,14 @@ urlpatterns = [
 
 
 
-## SERVER SIDE PROCESSING:
+## SERVER SIDE PROCESS;
+![image](https://github.com/user-attachments/assets/9113862c-6b10-40da-aea6-09e6af8b51d2)
 
-![alt text](<Screenshot (67).png>)
 
 ## HOMEPAGE:
 
-![alt text](<Screenshot (68).png>)
+![image](https://github.com/user-attachments/assets/a2f3db6f-8f4a-467b-ad80-f9ecbed499fc)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
